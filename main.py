@@ -2,26 +2,26 @@ dia = int(input())
 mes = int(input())
 
 if (dia>=20 and mes==1) or (dia<=18 and mes==2):
-    print("Acuario")
+    print("acuario")
 elif (dia>=19 and mes==2) or (dia<=20 and mes==3):
-    print("Piscis")
+    print("piscis")
 elif (dia>=21 and mes==3) or (dia<=19 and mes==4):
-    print("Aries")
+    print("aries")
 elif (dia>=20 and mes==4) or (dia<=20 and mes==5):
-    print("Tauro")
+    print("tauro")
 elif (dia>=21 and mes==5) or (dia<=20 and mes==6):
-    print("Geminis")
+    print("geminis")
 elif (dia>=21 and mes==6) or (dia<=22 and mes==7):
-    print("Cancer")
+    print("cancer")
 elif (dia>=23 and mes==7) or (dia<=22 and mes==8):
-    print("Leo")
+    print("leo")
 elif (dia>=23 and mes==8) or (dia<=22 and mes==9):
-    print("Virgo")
+    print("virgo")
 elif (dia>=23 and mes==9) or (dia<=22 and mes==10):
-    print("Libra")
+    print("libra")
 elif (dia>=23 and mes==10) or (dia<=21 and mes==11):
-    print("Escorpio")
+    print("escorpio")
 elif (dia>=22 and mes==11) or (dia<=21 and mes==12):
-    print("Sagitario")
+    print("sagitario")
 elif (dia>=22 and mes==12) or (dia<=19 and mes==1):
-    print("Capricornio")
+    print("capricornio")
